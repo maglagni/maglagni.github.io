@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maglagni.github.io/sitemap
+Sitemap: https://maglagni.github.io/app/sitemap
+Sitemap: https://maglagni.github.io/assets/sitemap
+Sitemap: https://maglagni.github.io/css/sitemap
+Sitemap: https://maglagni.github.io/includes/sitemap
+Sitemap: https://maglagni.github.io/item/sitemap
+Sitemap: https://maglagni.github.io/src/sitemap
